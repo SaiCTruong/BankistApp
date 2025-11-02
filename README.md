@@ -1,4 +1,4 @@
-## 💰 Bankist Website
+## 💰 Bankist App
 
 Một ứng dụng **giả lập ngân hàng trực tuyến (Bankist)** được viết bằng **HTML**, **CSS** và **JavaScript**,  
 giúp người dùng **đăng nhập, chuyển tiền, vay tiền** và **xem thống kê tài chính theo thời gian thực**.  
