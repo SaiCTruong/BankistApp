@@ -65,6 +65,7 @@ Bạn có thể trải nghiệm ứng dụng trực tiếp tại đây:
 ```bash
 git clone https://github.com/SaiCTruong/BankistWebsite.git
 
+
 ### ✅ 2. Mở file index.html
 **Chạy trực tiếp bằng trình duyệt hoặc dùng VS Code với Live Server.**
 
