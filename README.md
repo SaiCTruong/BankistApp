@@ -7,7 +7,7 @@ Một ứng dụng **giả lập ngân hàng trực tuyến (Bankist)** được
 ## 🚀 Live Demo
 
 Bạn có thể trải nghiệm ứng dụng trực tiếp tại đây:  
-**👉 [Xem Demo Ngay!](https://github.com/SaiCTruong/BankistWebsite.git) 👈**
+**👉 [Xem Demo Ngay!](https://saictruong.github.io/BankistWebsite/) 👈**
 
 ---
 
@@ -63,8 +63,16 @@ Bạn có thể trải nghiệm ứng dụng trực tiếp tại đây:
 
 ### ✅ 1. Clone hoặc tải dự án
 ```bash
-git clone https://github.com/SaiCTruong/BankistWebsite.git
+git clone 
+---
 
+## 💻 Cách chạy ứng dụng
+
+### ✅ 1. Clone hoặc tải dự án
+
+```bash
+git clone https://github.com/SaiCTruong/BankistWebsite.git
+```
 
 ### ✅ 2. Mở file index.html
 **Chạy trực tiếp bằng trình duyệt hoặc dùng VS Code với Live Server.**
@@ -80,7 +88,7 @@ Dưới đây là danh sách các tài khoản **demo** có sẵn trong hệ th�
 | Lê Quốc Khánh | lqk | 3004 |
 
 Sau khi đăng nhập, bạn có thể:
-- Xem danh sách giao dịch (tiền vào/ra)
+- Xem danh sách giao dịch (deposit/withdrawal)
 - Chuyển tiền giữa các tài khoản
 - Vay tiền và xem lãi suất
 - Đóng tài khoản
@@ -103,7 +111,9 @@ Sau khi đăng nhập, bạn có thể:
 
 ## 🧑‍💻 Tác giả
 
+
 👤 [Phạm Công Trường](https://github.com/SaiCTruong)
+
 
 ---
 
